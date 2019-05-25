@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feeling.ly</string>
+    <string name="magicword"></string>
+    <string name="instructions">This test will determine the range of frequencies that your ear can hear.\n
+        Put on a pair of headphones or ear buds and find a quite place. Warbled tones will be played softly at first.
+        Simply mark the hear tone. If you cannot hear the sound, mark that you cannot hear it.\n
+        At the end, your results will be shown.</string>
+     <string name="q1">Deaf people can do anything hearing people can, except hear.</string>
+     <string name="q2">TBy deafness one gains in one respect more than one loses; one misses more nonsense than sense.</string>
+     
+</resources>
